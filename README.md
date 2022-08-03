@@ -1,6 +1,6 @@
 # ETCH A SKETCH APP
 
-The app lets you draw using keys on the keyboard.
+The app lets you draw using keys on the keyboard. \n
 w - forward
 s - backward
 a - turn left
